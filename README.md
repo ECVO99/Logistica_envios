@@ -6,9 +6,12 @@ Este archivo es un documento en formato Markdown. Markdown permite escribir text
 
 Puedes abrirlo en línea en [markdownlivepreview.com](https://markdownlivepreview.com/) o instalar una extensión de visualización de Markdown en VS Code para verlo renderizado dentro del editor.
 
---
+
 ## Integrantes 
-- 
+- Melissa González Lopez
+- Juliana Zapata Gómez
+- Eduar Camilo Vargas Osorio
+  
 ## Enlace del repositorio
 
 Repositorio:[[Logistica_Envios](https://github.com/ECVO99/Logistica_envios.git)]
