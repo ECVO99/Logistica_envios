@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proyecto 3 - Logística y Transporte de Envíos
 
 ## Archivo Markdown
@@ -125,3 +126,6 @@ El archivo `ejecución_logistica_envios.sql` incluye:
 ## Observación final
 
 El modelo está preparado para crecer sin romper la estructura base. Si en el futuro se requiere una operación más compleja, se puede ampliar con tablas de vehículos, centros de distribución, rutas multietapa y auditoría técnica adicional.
+=======
+# Logistica_envios
+>>>>>>> e1cdbc06aad936fceb22fe5ad42726f3fe43623b
