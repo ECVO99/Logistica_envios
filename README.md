@@ -8,8 +8,7 @@ Puedes abrirlo en línea en [markdownlivepreview.com](https://markdownliveprevie
 
 ## Enlace del repositorio
 
-Repositorio:[ ________________________________](https://github.com/ECVO99/Logistica_envios.git)
-
+Repositorio:[[ ________________________________](https://github.com/ECVO99/Logistica_envios.git)]
 ## Objetivo del modelo
 
 El modelo busca gestionar de forma consistente y trazable:
